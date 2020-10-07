@@ -21,6 +21,8 @@ void loop() {
 
   // result:
   // it worked!!!
+  // our car turned left when the sensor on the right recieves light
+  // and it turned right when the sendor on the left recieves light
 }
 
 void carStop() {                //  Motor Stop
